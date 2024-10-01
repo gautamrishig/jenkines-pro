@@ -1,0 +1,4 @@
+com\javatechie\os\CatalogServiceApplication.class
+com\javatechie\os\OrderControler.class
+com\javatechie\os\repository\OrderRepository.class
+com\javatechie\os\entity\Order.class
